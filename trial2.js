@@ -1,4 +1,3 @@
-// Code your solution in this file!
 
 function distanceFromHqInBlocks(destination) {
     if (destination >= 42) {
